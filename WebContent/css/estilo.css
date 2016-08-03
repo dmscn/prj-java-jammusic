@@ -1,0 +1,126 @@
+/* HEAD */
+.head-group {
+    margin-top: 50px;
+}
+/* HEAD */
+
+
+/* STICKY FOOTER */
+html, body {
+    height: 100%;
+}
+
+.wrapper {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+}
+/* FIM STICKY FOOTER */
+
+/* FOOTER */
+#copy-footer {
+    color: #ffffff;
+    margin: 15px;
+}
+
+
+.footer {
+    height: 50px;
+}
+/* FIM FOOTER */
+
+
+/* GERAL */
+.container {
+    width: 960px;
+}
+
+.alert {
+    margin-top: 20px;
+    display: none;
+}
+
+p.texto-preco {
+    font-size: 20px;
+    font-weight: 800;
+}
+
+#btn-center button {
+    margin: 2px auto 2px auto;
+}
+/* FIM GERAL */
+
+
+/* INDEX */
+#carousel {
+    margin: -40px auto 20px auto;
+}
+
+#logo {
+    margin: 10px 10px 10px -80px;
+}
+/* FIM INDEX */
+
+
+/* PRODUTO */
+.controle-produto {
+    margin: 10px 0px 10px 0px   
+}
+
+#img-produto {
+    width: 300px;
+    height: 600px;
+    border: 2px solid #d5d5d5;
+    border-radius: 3px;
+}
+
+#img-index {
+    width: 300px;
+    height: 600px;
+}
+
+/* FIM PRODUTO */
+
+
+
+
+/* CUSTOMIZAÇÃO NAVBAR BOOTSTRAP */
+#custom-navbar-top.navbar {
+    margin-bottom: 40px;
+}
+
+#custom-navbar-bottom.navbar {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#custom-navbar-top.navbar-default,
+#custom-navbar-bottom.navbar-default {
+	background-color: #292a2e;
+}
+
+#custom-navbar-top.navbar-default,
+#custom-navbar-bottom.navbar-default {
+    border-width: 0px;
+    border-radius: 0px;
+}
+
+#custom-navbar-top.navbar-default .navbar-nav>li>a,
+#custom-navbar-bottom.navbar-default .navbar-nav>li>a {
+	color: rgba(119, 119, 119, 1);
+    background-color: rgba(41, 42, 46, 1);
+}
+
+#custom-navbar-top.navbar-default .navbar-nav>li>a:hover,
+#custom-navbar-top.navbar-default .navbar-nav>li>a:focus,
+#custom-navbar-bottom.navbar-default .navbar-nav>li>a:hover,
+#custom-navbar-bottom.navbar-default .navbar-nav>li>a:focus {
+    color: rgba(51, 51, 51, 1);
+    background-color: rgba(255, 255, 255, 1);
+}
+
+#custom-navbar-top.navbar-default .navbar-nav>li>a,
+#custom-navbar-bottom.navbar-default .navbar-nav>li>a {
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(41, 42, 46, 1);
+}
