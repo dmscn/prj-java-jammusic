@@ -1,10 +1,10 @@
 JamMusic
 ===
-Projeto Final JAVA - Curso Técnico de Informática
+Projeto Final JAVA - Curso Técnico de Informática 2015
 ---
 
 Projeto final criado para concluir o curso de Técnico de Informática pelo Senac.  
-Administrado pelo **Prof. Paulo Rodrigues**  
+Administrado por **Prof. Paulo Rodrigues**
 
 
 Proposta : Criar um site E-Commerce em Java e JavaWEB
